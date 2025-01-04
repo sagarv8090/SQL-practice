@@ -5,3 +5,5 @@ Solution:
 select 
 concat (first_name,' ', last_name) as full_name
 from patients;
+
+//Here concat is used to combine first_name and last_name.
